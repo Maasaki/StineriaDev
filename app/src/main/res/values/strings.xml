@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">StineriaDev</string>
+    <string name="logoapp">LogoApp</string>
+    <string name="loginbtn">Login</string>
+    <string name="usernamelogin">Username, Phone, E-mail</string>
+    <string name="password">Password</string>
+    <string name="create_account">Don\'t have an account ? Sign up !</string>
+    <string name="passforgot">Forgot password ?</string>
+    <string name="username_register">Username</string>
+    <string name="email_register">E-mail</string>
+    <string name="phone_register">Phone Number</string>
+    <string name="pass_register">Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">You have already account ? Sign in !</string>
+</resources>
