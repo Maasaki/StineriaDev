@@ -111,8 +111,8 @@
 
     <Button
         android:id="@+id/btn_gologin"
-        android:layout_width="290dp"
-        android:layout_height="34dp"
+        android:layout_width="299dp"
+        android:layout_height="36dp"
         android:backgroundTint="#00FFFFFF"
         android:text="@string/sign_in"
         android:textAllCaps="true"
