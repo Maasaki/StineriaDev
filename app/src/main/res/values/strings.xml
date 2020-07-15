@@ -12,4 +12,6 @@
     <string name="pass_register">Password</string>
     <string name="register">Register</string>
     <string name="sign_in">You have already account ? Sign in !</string>
+    <string name="send_mail">Send e-mail</string>
+    <string name="email_pass_forgot">E-mail of your account</string>
 </resources>
