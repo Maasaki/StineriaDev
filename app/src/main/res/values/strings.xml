@@ -14,4 +14,5 @@
     <string name="sign_in">You have already account ? Sign in !</string>
     <string name="send_mail">Send e-mail</string>
     <string name="email_pass_forgot">E-mail of your account</string>
+    <string name="photo_profil">photo_profil</string>
 </resources>
