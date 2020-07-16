@@ -13,5 +13,6 @@ public class MainJava extends AppCompatActivity {
         setContentView(R.layout.login);
         findViewById(R.id.btn_goregister).setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), Register.class)));
         findViewById(R.id.btn_passforgot).setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), ForgotPass.class)));
+        findViewById(R.id.btn_login).setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), Index.class)));
     }
 }
