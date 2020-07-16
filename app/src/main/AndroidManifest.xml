@@ -10,10 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".slide_account"
-            android:label="@string/title_activity_slide_account"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity
             android:name=".MainJava"
             android:screenOrientation="portrait">
             <intent-filter>
