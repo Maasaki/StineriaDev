@@ -44,4 +44,15 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/chat_icon" />
 
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="androidx.navigation.fragment.NavHostFragment"
+        android:layout_width="52dp"
+        android:layout_height="679dp"
+        app:defaultNavHost="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/head_backgroud"
+        app:navGraph="@navigation/mobile_navigation" />
+
 </android.support.constraint.ConstraintLayout>
