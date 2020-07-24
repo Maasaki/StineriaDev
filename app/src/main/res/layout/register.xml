@@ -68,7 +68,7 @@
             android:textColorHint="#FFFFFF" />
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/email_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/email_register"
@@ -78,7 +78,7 @@
             android:textColorHint="#FFFFFF" />
 
         <EditText
-            android:id="@+id/phone"
+            android:id="@+id/phone_register"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/phone_register"
